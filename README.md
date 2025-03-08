@@ -7,7 +7,7 @@ This project demonstrates how to use **Selenium with Python** for automated web 
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/selenium-project.git
+git clone https://github.com/kupesh/selenium-project.git
 cd selenium-project
 ```
 
